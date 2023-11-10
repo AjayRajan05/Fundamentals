@@ -1,0 +1,6 @@
+#include<stdio.h>
+#inlcude<conio.h>
+{
+printf("Hello world!!");
+getch();
+}
