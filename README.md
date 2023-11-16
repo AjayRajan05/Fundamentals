@@ -1,2 +1,2 @@
-# Fundamentals
-Fundamental programming codes with proper explanation is better to have for future references.
+#BeStrong
+Be positive even when everything goes negative, It is what meant to be being positive...
